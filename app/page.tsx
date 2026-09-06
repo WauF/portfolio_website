@@ -9,12 +9,12 @@ export const metadata: Metadata = {
 const projects = [
   {
     number: "01",
-    name: "CorePdfApp",
+    name: "Typovia",
     type: "Product / Web",
     description:
       "An online PDF editor built as a focused, browser-first product experience.",
     stack: "Next.js · TypeScript · Tailwind",
-    href: "https://www.corepdfapp.com/",
+    href: "https://www.typovia.com/",
   },
   {
     number: "02",
